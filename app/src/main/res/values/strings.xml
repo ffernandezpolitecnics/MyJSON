@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">My JSON</string>
     <string name="hola_mundo">Hola mundo</string>
+    <string name="add">Add</string>
 </resources>
